@@ -1,0 +1,86 @@
+      body {
+          font-family: 'Poppins', sans-serif;
+          font-size: 1.3em;
+          line-height: 1.6;
+          margin: 0;
+          padding: 20px;
+          border-color: black;
+          background-color: white;
+          background-image: url(modern-white-background-free-vector.jpg);
+          text-align: center;
+      }
+
+
+
+      text-align: center;
+      margin-bottom: 20px;
+
+
+      h1 {
+          color: red;
+          /* Un color que podría evocar la gravedad del incidente */
+      }
+
+      p {
+          margin-bottom: 15px;
+      }
+
+      img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+          margin: 20px auto;
+          border: 1px solid black;
+          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+      .PosiblesCausas {
+          background-color: #fff;
+          padding: 20px;
+          margin-top: 30px;
+          border-radius: 8px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .PosiblesCausas h2 {
+          color: #e74c3c;
+          margin-top: 0;
+      }
+
+
+
+      .PosiblesCausas ul {
+          list-style: disc inside;
+          padding-left: 0;
+      }
+
+      .PosiblesCausas li {
+          margin-bottom: 10px;
+          font-weight: bold;
+      }
+
+      .PosiblesCausas li p {
+          /* Un color gris claro que puede evocar un tono serio */
+          color: #555;
+          /* Un color gris que puede evocar un tono serio */
+          font-size: 1em;
+          /* Un tamaño de fuente más pequeño para el texto descriptivo */
+          line-height: 1.4;
+          /* Un interlineado más compacto para el texto descriptivo */
+          /* Un color gris claro que puede evocar un tono serio */
+          color: #555;
+          /* Un color gris que puede evocar un tono serio */
+          font-size: 1em;
+          font-weight: normal;
+          margin-top: 5px;
+          margin-bottom: 0;
+          padding-left: 20px;
+          /* Indent the paragraph under the list item */
+          border-left: 2px solid #eee;
+      }
+
+      .container {
+          max-width: 1200px;
+          margin: 0 auto;
+      }
+      }
